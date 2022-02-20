@@ -39,7 +39,7 @@ Install PyYaml:
 		[q] Quit
 
 	Please input a selection: 3
-	Input full path to *.yml file for import or [q] to quit: C:\Users\Jacob\Desktop\urls.yml
+	Input full path to *.yml file for import or [q] to quit: C:\Scripts\splitlistbuilder\example_lists\urls.yml
 	-------------------- Begin Output --------------------
 	anyconnect-custom-data dynamic-split-exclude-domains TESTING synsandacks.com,developer.cisco.com,google.com,microsoft.com,github.com,www.python.org,pypi.org,twitter.com,www.cisco.com
 	----------------------------------------------------
